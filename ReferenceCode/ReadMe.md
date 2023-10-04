@@ -5,7 +5,7 @@ All programs are developed with Matlab2019
 For further information, please contact:
 
 limurong@zhejianglab.com
-shilun@zju.edu.cn
+shilundu@zju.edu.cn
 
 RRTRobustTest.m:
 RRT Test Program. You can run this program directly to see the final path planning results of APF-Guided RRT with RD Selections.
